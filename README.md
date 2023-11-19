@@ -2,7 +2,7 @@
 
 Connect is a cutting-edge web application built with React Vite for rapid development, leveraging Appwrite as the backend service for seamless authentication and data management, while utilizing the powerful Tanstack library (React Query) and TypeScript to enhance state management and ensure type safety throughout the application.
 
-![image](https://github.com/Aseem5047/socialconnect/assets/80787027/d7cb3d5a-a7e6-47a3-8dda-8d966382f9c7)
+![image](https://github.com/Aseem5047/socialconnect/assets/80787027/a0c5c3de-3bee-41e4-89d2-35a5540d78ea)
 
 # Tech Used
 
@@ -13,8 +13,6 @@ Connect is a cutting-edge web application built with React Vite for rapid develo
   * Neat and clean UI
 
 ![image](https://github.com/Aseem5047/socialconnect/assets/80787027/c6c4ddf8-a96e-4a6d-9d18-e1d1a4d5ce8f)
-
-![image](https://github.com/Aseem5047/socialconnect/assets/80787027/a0c5c3de-3bee-41e4-89d2-35a5540d78ea)
 
 # Steps to run in your machine
 ### Run the following commands
