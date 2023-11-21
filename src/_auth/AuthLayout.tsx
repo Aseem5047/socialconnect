@@ -16,9 +16,9 @@ export default function AuthLayout() {
 					</section>
 
 					<img
-						src="/assets/images/side-img.svg"
+						src="https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930807127-FF9KFI0HZO6YVLV8AV9R/Top+20+Social+Media+App+Inspiration+%231+-+10.jpg"
 						alt="logo"
-						className="hidden xl:block h-screen w-1/2 object-cover bg-no-repeat"
+						className="hidden xl:block h-screen w-1/2 rounded-l-xl object-cover bg-no-repeat"
 					/>
 				</>
 			)}
