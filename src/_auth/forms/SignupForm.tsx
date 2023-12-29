@@ -75,7 +75,7 @@ const SignupForm = () => {
 	}
 	return (
 		<Form {...form}>
-			<div className="sm:w-420 flex-center flex-col">
+			<div className="sm:w-420 flex-center flex-col my-auto">
 				<img
 					src="/assets/images/logox.png"
 					alt="logo"
