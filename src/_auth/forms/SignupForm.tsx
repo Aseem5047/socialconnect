@@ -163,7 +163,7 @@ const SignupForm = () => {
 								<FormControl>
 									<Input
 										type="password"
-										placeholder="Provide Email Address"
+										placeholder="Provide Password"
 										className="shad-input"
 										autoComplete="off"
 										{...field}
