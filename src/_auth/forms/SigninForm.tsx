@@ -62,14 +62,17 @@ const SignInForm = () => {
 	return (
 		<Form {...form}>
 			<div className="sm:w-420 flex-center flex-col">
-				<img src="/assets/images/logo.png" alt="logo" />
+				<img
+					src="/assets/images/logox.png"
+					alt="logo"
+					className="w-16 h-16 object-cover rounded-xl"
+				/>{" "}
 				<h2 className="h3-bold md:h2-bold pt-5 sm:pt-8 ">
 					Authenticate Your Account
 				</h2>
 				<p className="text-light-3 small-medium md:base-regular mt-2">
 					Glad to have You Back Please Authenticate
 				</p>
-
 				<form
 					onSubmit={form.handleSubmit(onSubmit)}
 					className="flex flex-col gap-5 w-full mt-4"
